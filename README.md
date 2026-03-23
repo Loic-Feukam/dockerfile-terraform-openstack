@@ -3,7 +3,7 @@
 **Image docker pour terraform et Openstack**
 
 -  Contient Terraform installé.
--  Contient Openstack installé via la librerie de python3.
+-  Contient Openstack installé via la librairie de python3.
 -  Contient le paquet make (for Makefile) installé. 
 -  Permet de faire l'infrastructure as code dans le cloud privé Openstack.
 
